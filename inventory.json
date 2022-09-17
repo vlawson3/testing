@@ -1,0 +1,63 @@
+{
+	"Cars": [{
+		"Make": "Chevrolet",
+		"Model": "Corvette",
+		"Year": 1963,
+		"Price": "200000",
+		"Convertible": "False"
+	}, {
+		"Make": "Chevrolet",
+		"Model": "Corvette",
+		"Year": 1957,
+		"Price": "130000",
+		"Convertible": "True"
+	}, {
+		"Make": "Bugatti",
+		"Model": "Chiron",
+		"Year": 2022,
+		"Price": "3500000",
+		"Convertible": "False"
+	}, {
+		"Make": "Genesis",
+		"Model": "G90",
+		"Year": 2022,
+		"Price": "495666",
+		"Convertible": "False"
+	}, {
+		"Make": "Shelby",
+		"Model": "Cobra 427",
+		"Year": 1965,
+		"Price": "2000000",
+		"Convertible": "True"
+	}, {
+		"Make": "Chevrolet",
+		"Model": "Camaro",
+		"Year": 1969,
+		"Price": "150000",
+		"Convertible": "False"
+	}, {
+		"Make": "Ford",
+		"Model": "Mustang Bullit",
+		"Year": 1968,
+		"Price": "180000",
+		"Convertible": "False"
+	}, {
+		"Make": "Ferrari",
+		"Model": "Testarossa",
+		"Year": 1982,
+		"Price": "180000",
+		"Convertible": "False"
+	}, {		
+		"Make": "Porche",
+		"Model": "911",
+		"Year": 2022,
+		"Price": "200000",
+		"Convertible": "True"
+	}, {
+		"Make": "Bentley",
+		"Model": "Bacalar",
+		"Year": 2022,
+		"Price": "1900000",
+		"Convertible": "True"		
+	}]
+}
